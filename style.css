@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.dom{
+  margin: 0.5em;
+  font-size: 1.5em;
+  padding-left: 0.2em;
+}
+
+span {
+  border: 1px solid rgb(219, 219, 219);
+  letter-spacing: 0.05em;
+  padding: 0.5em 1em;
+  cursor: pointer;
+}
+
+span:hover {
+  background-color: rgb(250, 246, 246);
+}
+
+.show {
+  display: block !important;
+}
+
+.hide {
+  display: none !important;
+}
